@@ -31,11 +31,13 @@ The basic analysis of data provides insights into the number of planes with more
 
 ![image](https://github.com/AditiSatsangi/Airline-Data-Analysis-Project/assets/123658491/016fea8d-84bb-4c96-a116-ba2c0994cb6e)
 
-Aircraft Utilization
+## Aircraft Utilization
 ![image](https://github.com/AditiSatsangi/Airline-Data-Analysis-Project/assets/123658491/5bdfba4d-9be3-4b65-9813-0dc26f733c5e)
-Aircraft Analysis
+
+## Aircraft Analysis
 ![image](https://github.com/AditiSatsangi/Airline-Data-Analysis-Project/assets/123658491/8f2b5521-7ba9-4fa0-8676-440e89e4b7ef)
-Plotting Demand Forecasting
+
+## Plotting Demand Forecasting
 ![image](https://github.com/AditiSatsangi/Airline-Data-Analysis-Project/assets/123658491/5a52b9cd-2d72-48df-8240-1a34f9db6029)
 
 
